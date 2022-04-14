@@ -1,0 +1,21 @@
+1. WAP to find the odd and even numbers in an given array?
+Input = [2,3,23,45,77,90,12,56]
+OutPut = Even = 2,90,12,56
+         Odd = 3,23,45,77
+
+2. WAP to print count of each element occurrence in an given array?
+Input = [5, 1, 6, 3, 1, 7, 3, 6, 6, 2]
+OutPut = Element name: 5 Element Count: 1
+         Element name: 1 Element Count: 2
+         Element name: 6 Element Count: 3
+         Element name: 3 Element Count: 2
+         Element name: 7 Element Count: 1
+         Element name: 2 Element Count: 1
+
+3. WAP to reverse a number without using String class
+Input = 2345
+Output = 5432
+
+4. WAP to find palindrome numbers from a range (100-999)
+
+5.WAP to find an given year is a leap year?
